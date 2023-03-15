@@ -1,0 +1,30 @@
+.header{
+    overflow: hidden;
+    background-color: #6B7F18;
+    padding: 20px 10px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items:center;
+    text-align: center;
+    padding-top:20%;
+
+}
+
+.text-field{
+    display: flex;
+    flex-direction: column;
+}
+
+.loginbut{}
+
+.create{}
+
+/* .footer{
+    overflow: hidden;
+    background-color: #6B7F18;
+    padding: 20px 10px;
+} */

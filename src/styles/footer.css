@@ -1,0 +1,16 @@
+
+.bar{
+    overflow: hidden;
+    background-color: #6B7F18;
+    padding: 20px 10px;
+    margin-top: 20%;
+    /* padding-top:30%; */
+}
+
+.footer{
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+    
+
+}
