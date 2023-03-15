@@ -3,7 +3,8 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Manager from './Manager';
 import Login from './Login';
 import Register from './Register';
-
+// dbuibqufeiofeb
+//ebuib3e
 const App = () => {
   return (
     <div className='paths'>
