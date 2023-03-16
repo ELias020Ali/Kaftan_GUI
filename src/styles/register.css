@@ -8,3 +8,23 @@
 .registerbut{
     text-align: center;
 }
+.header2{
+    overflow: hidden;
+    background-color: #6B7F18;
+    padding: 20px 10px;
+}
+.footer2{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #6B7F18;
+    color: white;
+    text-align: center
+}
+.Title1{
+    text-align: center;
+   
+}
+
+    
