@@ -28,7 +28,6 @@ function Login() {
       </div>
 
         <br/>
-{/* nfuewibfwe */}
 
         {/* <button onClick={Manager}>Login</button> */}
         <br/>
