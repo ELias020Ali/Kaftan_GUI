@@ -39,7 +39,7 @@ function Login() {
 
        <br/>
        <div className='create'>
-       <Button onClick={() => navigate("/Register")} variant="text">Create Account 123</Button>
+       <Button onClick={() => navigate("/Register")} variant="text">Create Account</Button>
        </div>
        <br/>
        
