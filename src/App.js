@@ -4,6 +4,7 @@ import Manager from './Manager';
 import Login from './Login';
 import Register from './Register';
 import User from './User';
+
 const App = () => {
   return (
     <div className='paths'>
