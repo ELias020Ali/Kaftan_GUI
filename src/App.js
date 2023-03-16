@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Manager from './Manager';
 import Login from './Login';
 import Register from './Register';
-import User from './User';
+import Register from './User';
 
 const App = () => {
   return (
