@@ -2,9 +2,27 @@
     text-align: center;
 }
 
-.button2{
+.txt{
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    
 }
+
+.txt2{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.txt3{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
 .registerbut{
     text-align: center;
 }
