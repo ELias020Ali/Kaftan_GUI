@@ -31,11 +31,11 @@ function Manager() {
             <ol key={item.ProductID}>
             ProductID: { item.ProductID }
               <br />
-              Product: { item.Product }
+              Product: { item.ProductName }
               <br />
-              num_units: { item.num_units }
+              num_units: { item.Units }
               <br />
-              supplier: { item.supplier }
+              supplier: { item.Supplier }
               <br />
           </ol>
       </div>

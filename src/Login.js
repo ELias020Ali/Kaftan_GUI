@@ -29,7 +29,6 @@ function Login() {
 
         <br/>
 
-
         {/* <button onClick={Manager}>Login</button> */}
         <br/>
         <div className='loginbut'>
