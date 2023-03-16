@@ -21,13 +21,15 @@ function Login() {
       </div>
       <div className="container">
       <p>Login Details</p>
-      <div className='text-field'>
+      <div className='text-field1'>
         <TextField id="filled-basic" label="Email" variant="filled" />
+      </div>
+      <div className='text-field2'>
         <TextField id="filled-basic" label="password" variant="filled" />
-
       </div>
 
         <br/>
+{/* nfuewibfwe */}
 
         {/* <button onClick={Manager}>Login</button> */}
         <br/>
@@ -38,12 +40,12 @@ function Login() {
 
        <br/>
        <div className='create'>
-       <Button onClick={() => navigate("/Register")} variant="text">Create Account</Button>
+       <Button onClick={() => navigate("/Register")} variant="text">Create Account </Button>
        </div>
        <br/>
        
       {/* <div className='footer'>
-        footer
+        
       </div> */}
       </div>
       

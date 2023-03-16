@@ -1,3 +1,11 @@
+.MainTitle{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 200%;
+
+}
+
 .header{
     overflow: hidden;
     background-color: #6B7F18;
@@ -10,13 +18,19 @@
     flex-direction: column;
     align-items:center;
     text-align: center;
-    padding-top:20%;
+    padding-top:10%;
 
 }
 
-.text-field{
+.text-field1{
     display: flex;
     flex-direction: column;
+}
+
+.text-field2{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
 }
 
 .loginbut{}
